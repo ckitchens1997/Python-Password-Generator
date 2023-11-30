@@ -16,4 +16,4 @@ for pwds in range(numberOfPasswords):
         passwords += random.choice(passwordChars)
     print (passwords)
 
-    # Created by @ckitchens1997
+# Created by @ckitchens1997
